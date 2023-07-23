@@ -1,8 +1,8 @@
 <?php
-const base_url = "http://localhost:3000/";
+const base_url = "byxvubda8oa9tsvojcex-mysql.services.clever-cloud.com";
 const host = "localhost";
-const user = "root";
-const pass = "";
+const user = "ufqaub7vz9kqxylj";
+const pass = "VLj4d0tudmn4HDvRYdu5";
 const db = "byxvubda8oa9tsvojcex";
 const charset = "charset=utf8";
 ?>
