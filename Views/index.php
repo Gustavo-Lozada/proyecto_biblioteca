@@ -12,18 +12,16 @@
     <title>Iniciar | Sesión</title>
 </head>
     
-<h1>UCACUE</h1>
-<h3>SISTEMA DE GESTION BIBLIOTECARIO</h3>
     
 <body>
     <section class="material-half-bg">
         <div class="cover"></div>
     </section>
     <section class="login-content">
-        <div class="logo">
+        
             <h1>UCACUE</h1>
             <h3>SISTEMA DE GESTION BIBLIOTECARIO</h3>
-        </div>
+        
         <div class="login-box">
             <form class="login-form" id="frmLogin" onsubmit="frmLogin(event);">
                 <h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>Iniciar Sesión</h3>
