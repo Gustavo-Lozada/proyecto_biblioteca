@@ -19,7 +19,7 @@
     </section>
     <section class="login-content">
         
-            <h1>UCACUE</h1>
+            <h1>UCACUES</h1>
             <h3>SISTEMA DE GESTION BIBLIOTECARIO</h3>
         
         <div class="login-box">
