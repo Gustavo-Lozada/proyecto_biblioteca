@@ -29,7 +29,7 @@
 
 <body class="app sidebar-mini">
     <!-- Navbar-->
-    <header class="app-header"><a class="app-header__logo" href="<?php echo base_url; ?>Configuracion/admin">Vida Informático</a>
+    <header class="app-header"><a class="app-header__logo" href="<?php echo base_url; ?>Configuracion/admin">UCACUE</a>
         <!-- Sidebar toggle button--><a class="app-sidebar__toggle" href="#" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
         <!-- Navbar Right Menu-->
         <ul class="app-nav">
@@ -59,8 +59,7 @@
     <aside class="app-sidebar">
         <div class="app-sidebar__user"><img class="app-sidebar__user-avatar" src="<?php echo base_url; ?>Assets/img/logo.png" alt="User Image" width="50">
             <div>
-                <p class="app-sidebar__user-name"><?php echo $_SESSION['nombre'] ?></p>
-                <p class="app-sidebar__user-designation"><?php echo $_SESSION['usuario']; ?></p>
+                
             </div>
         </div>
         <ul class="app-menu">
