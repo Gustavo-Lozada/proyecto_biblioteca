@@ -11,15 +11,18 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url; ?>Assets/css/font-awesome.min.css">
     <title>Iniciar | Sesión</title>
 </head>
-
+    
+<h1>UCACUE</h1>
+<h3>SISTEMA DE GESTION BIBLIOTECARIO</h3>
+    
 <body>
     <section class="material-half-bg">
         <div class="cover"></div>
     </section>
     <section class="login-content">
         <div class="logo">
-            <h3>UCACUE</h3>
-            <h1>SISTEMA DE GESTION BIBLIOTECARIO</h1>
+            <h1>UCACUE</h1>
+            <h3>SISTEMA DE GESTION BIBLIOTECARIO</h3>
         </div>
         <div class="login-box">
             <form class="login-form" id="frmLogin" onsubmit="frmLogin(event);">
