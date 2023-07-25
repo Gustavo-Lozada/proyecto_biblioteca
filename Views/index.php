@@ -18,7 +18,7 @@
     </section>
     <section class="login-content">
         <div class="logo">
-            <h1>UCACUE</h1>
+            <h3>UCACUE</h3>
             <h1>SISTEMA DE GESTION BIBLIOTECARIO</h1>
         </div>
         <div class="login-box">
