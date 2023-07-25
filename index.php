@@ -1,4 +1,5 @@
 <?php
+//HOLA
     require_once "Config/Config.php";
     require_once "Config/Helpers.php";
     $ruta = !empty($_GET['url']) ? $_GET['url'] : "Home/index";
